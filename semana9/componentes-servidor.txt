@@ -1,0 +1,14 @@
+Sistema operativo:
+Administra los recursos del sistema y permite ejecutar programas.
+
+Node.js:
+Permite ejecutar JavaScript fuera del navegador y crear servidores.
+
+Aplicación server.js:
+Contiene el código del servidor y las rutas.
+
+Puerto:
+Es el punto por donde el servidor recibe solicitudes.
+
+Logs:
+Son registros de eventos y actividades del servidor.
